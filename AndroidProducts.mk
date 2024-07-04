@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ls12_mt8797_wifi_64.mk
+    $(LOCAL_DIR)/twrp_ls12_mt8797_wifi_64.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ls12_mt8797_wifi_64-user \
-    omni_ls12_mt8797_wifi_64-userdebug \
-    omni_ls12_mt8797_wifi_64-eng
+    twrp_ls12_mt8797_wifi_64-user \
+    twrp_ls12_mt8797_wifi_64-userdebug \
+    twrp_ls12_mt8797_wifi_64-eng
