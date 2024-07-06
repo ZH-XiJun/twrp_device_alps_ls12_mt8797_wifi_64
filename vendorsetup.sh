@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_ls12_mt8797_wifi_64-user
-add_lunch_combo omni_ls12_mt8797_wifi_64-userdebug
-add_lunch_combo omni_ls12_mt8797_wifi_64-eng
+add_lunch_combo twrp_ls12_mt8797_wifi_64-user
+add_lunch_combo twrp_ls12_mt8797_wifi_64-userdebug
+add_lunch_combo twrp_ls12_mt8797_wifi_64-eng
